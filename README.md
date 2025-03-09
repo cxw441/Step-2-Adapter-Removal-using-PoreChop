@@ -2,4 +2,4 @@
 
 filename is being concatenaed using command below 
 
-. gitadd
+.gitadd
