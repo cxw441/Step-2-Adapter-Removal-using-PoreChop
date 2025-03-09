@@ -7,5 +7,6 @@ filename is being concatenated using command below
 and then zipped using the comman below 
 
 ==> gzip filename.fastq 
+
 ==> filename.gz 
 
