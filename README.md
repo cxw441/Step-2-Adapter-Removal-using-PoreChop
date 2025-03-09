@@ -8,5 +8,5 @@ and then zipped using the comman below
 
 `==> gzip filename.fastq`
 
-==> filename.gz 
+`==> filename.gz` 
 
