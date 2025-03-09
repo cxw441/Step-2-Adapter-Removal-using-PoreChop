@@ -1,5 +1,11 @@
 # Step-2-Adapter-Removal-using-PoreChop
 
-filename is being concatenaed using command below 
+filename is being concatenated using command below
 
-.gitadd
+==> zcat * > filename.fastq
+
+and then zipped using the comman below 
+
+==> gzip filename.fastq 
+==> filename.gz 
+
