@@ -2,7 +2,7 @@
 
 filename is being concatenated using command below
 
-'==> zcat * > filename.fastq'
+`==> zcat * > filename.fastq`
 
 and then zipped using the comman below 
 
