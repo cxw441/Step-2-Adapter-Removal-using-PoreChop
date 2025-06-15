@@ -1,4 +1,4 @@
-# Step-2-Adapter-Removal-using-PoreChop
+# STEP-2-Adapter-Removal-using-PoreChop
 
 filename is being concatenated using command below
 
